@@ -1,0 +1,14 @@
+.ipynb_checkpoints/*
+quantum-cv/.ipynb_checkpoints/*
+quantum-cv/data/*
+.jpg*
+.png*
+.svg*
+.gif*
+.JPEG*
+.jpeg*
+.numpy*
+.h5*
+.pkl*
+.pth*
+.gz*
