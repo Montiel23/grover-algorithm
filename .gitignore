@@ -1,3 +1,5 @@
+quantum-cv/results/*
+quantum-cv/model_checkpoints/*
 .ipynb_checkpoints/*
 quantum-cv/.ipynb_checkpoints/*
 quantum-cv/data/*
